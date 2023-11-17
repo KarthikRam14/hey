@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+}
+
+.first{
+    background-color: #000000;
+    color: white;
+    padding-top: 150px;
+}
+
+.magic{
+    background-color: #F86C83;
+}
+
+.second{
+    background-color: white;
+}
+
+.par{
+    color: black;
+}
+
+.done{
+    color: white;
+    background-color: #000000;
+}
+
+img{
+    border: 2px solid #9932CC;
+}
